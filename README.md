@@ -1,5 +1,7 @@
 # Оно тебе надо
 
+https://github.com/TheAbyssReaper/ono-tebe-nado-ad
+
 Учебная вёрстка аукциона вещей, в которые никто не верил.
 
 ## Открыть проект
@@ -12,9 +14,9 @@ HTML5, CSS, Grid, Flexbox, локальный шрифт Raleway. Ширина �
 
 ## Ссылки
 
-- [Репозиторий](https://github.com/TheAbyssReaper/ono-tebe-nado-ad)
 - [Макет Figma](https://www.figma.com/design/PqHJvUBvwCsv8UmOUPWBXJ/?node-id=0-3)
-- [Официальная заготовка и исходные материалы](https://github.com/yandex-praktikum/ono-tebe-nado-fd)
+
+Исходные изображения и шрифты предоставлены Яндекс Практикумом.
 
 ## Примечание
 
